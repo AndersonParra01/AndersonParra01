@@ -1,7 +1,7 @@
 ## <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> Welcome to my Developer profile
 <em>Hello! I am a passionate software developer with experience in a variety of backend and frontend development technologies, as well as databases. I am focused on offering effective and efficient solutions to software development challenges</em>
 <br/>
-
+## Tech & Tools Preference :computer:
 
 | Desarrollo Backend       | Desarrollo Frontend          | Base de Datos          |
 |-------------------------|-----------------------------|------------------------|
@@ -18,38 +18,7 @@
 |                         | Vuetify                     |                        |
 |                         | Buefy                       |                        |
 
- 
-## Tech & Tools Preference :computer:
-- **Development BackEnd**
-	- ExpressJs
-  	- NodeJs
-  	- Java
-  	- SpringBoot
-  	- Python
-  	- NestJs
 <img align="right" height="400px" width="500px" src="https://github.com/chandan-reddy-k/chandan-reddy-k/raw/master/assets/coding-freak.gif"/>
-
-	
-- **Development FrontEnd**
-	- VueJs
-	- Angular
- 	- ReactJs 
- 	- HTML, CSS and Javascript
-  	- SASS 
-	- Bootstrap
- 	- BulmaJs
-  	- TailwindCSS
-  	- PrimeNG
-  	- NGZorro
-  	- Vuetify
-  	- Buefy
-
-- **Database**
- 	- PostgresSQL
-  	- SQlite
-	- MongoDB
-   	- Firebase
-   	
 - **Operating systems**
 
 <code><a href="https://www.linux.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
