@@ -11,12 +11,12 @@
 | SpringBoot              | HTML, CSS and Javascript    | Firebase               |
 | Python                  | SASS                        |                        |
 | NestJs                  | Bootstrap                   |                        |
-                          | BulmaJs                     |                        |
-                          | TailwindCSS                 |                        |
-                          | PrimeNG                     |                        |
-                          | NGZorro                     |                        |
-                          | Vuetify                     |                        |
-                          | Buefy                       |                        |
+|                         | BulmaJs                     |                        |
+|                         | TailwindCSS                 |                        |
+|                         | PrimeNG                     |                        |
+|                         | NGZorro                     |                        |
+|                         | Vuetify                     |                        |
+|                         | Buefy                       |                        |
 
  
 ## Tech & Tools Preference :computer:
