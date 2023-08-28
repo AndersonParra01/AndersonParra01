@@ -10,7 +10,7 @@
   	- Python
   	- NestJs
   	- 
-<img align="right" height="800px" width="800px" src="https://github.com/chandan-reddy-k/chandan-reddy-k/raw/master/assets/coding-freak.gif"/>
+<img align="right" height="400px" width="400px" src="https://github.com/chandan-reddy-k/chandan-reddy-k/raw/master/assets/coding-freak.gif"/>
 
 	
 - **Development FrontEnd**
