@@ -1,4 +1,4 @@
-### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> Welcome to my Developer profile
+## <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> Welcome to my Developer profile
 <em>Hello! I am a passionate software developer with experience in a variety of backend and frontend development technologies, as well as databases. I am focused on offering effective and efficient solutions to software development challenges</em>
 <br/>
 ## Ask me about :computer: 
