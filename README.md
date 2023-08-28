@@ -19,6 +19,7 @@
 |                         | Buefy                       |                        |
 
 <img align="right" height="400px" width="500px" src="https://github.com/chandan-reddy-k/chandan-reddy-k/raw/master/assets/coding-freak.gif"/>
+
 - **Operating systems**
 
 <code><a href="https://www.linux.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
