@@ -34,7 +34,7 @@
 - **Operating systems**
 
 <code><a href="https://www.linux.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
-<code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://sm.pcmag.com/t/pcmag_uk/review/m/microsoft-/microsoft-windows-11_j3pf.1920.jpg"></a></code>
+<code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://seeklogo.com/images/M/microsoft-windows-logo-2D0FCE27A4-seeklogo.com.png"></a></code>
 <br/><br/>
 
 ## 🌱 I’m currently learning ...
