@@ -2,7 +2,8 @@
 <em>Hello! I am a passionate software developer with experience in a variety of backend and frontend development technologies, as well as databases. I am focused on offering effective and efficient solutions to software development challenges</em>
 <br/>
 
-**| Desarrollo Backend       | Desarrollo Frontend          | Base de Datos          |
+
+| Desarrollo Backend       | Desarrollo Frontend          | Base de Datos          |
 |-------------------------|-----------------------------|------------------------|
 | ExpressJs               | VueJs                       | PostgresSQL            |
 | NodeJs                  | Angular                     | SQLite                 |
@@ -16,7 +17,8 @@
                           | NGZorro                     |                        |
                           | Vuetify                     |                        |
                           | Buefy                       |                        |
-**
+
+ 
 ## Tech & Tools Preference :computer:
 - **Development BackEnd**
 	- ExpressJs
