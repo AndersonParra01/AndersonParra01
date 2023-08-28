@@ -17,6 +17,7 @@
 |                         | NGZorro                     |                        |
 |                         | Vuetify                     |                        |
 |                         | Buefy                       |                        |
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 <img align="right" height="400px" width="500px" src="https://github.com/chandan-reddy-k/chandan-reddy-k/raw/master/assets/coding-freak.gif"/>
