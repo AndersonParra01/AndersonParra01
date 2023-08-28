@@ -2,22 +2,31 @@
 <em>I am a 4th Year undergraduate student from <a href="https://jaipur.manipal.edu/"><b>Manipal University Jaipur</b></a>. From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/PC.gif" height="20px"/>, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Rocket.gif" height="18px"> is enough knowledge**. 🧠</em>
  <br/>
 ## Ask me about :computer: 
-- **Competitive Programming**
-	- Python ❤️
-	- C++
-	- Some Java
+- **Development BackEnd**
+	- Express
+  	- NodeJS
+  	- Java
+  	- SpringBoot
+  	- Python
 
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
-- **Web Development**
-	- HTML, CSS and Javascript :white_check_mark:
+- **Development FrontEnd**
+	- VueJs
+	- Angular
+ 	- ReactJs 
+ 	- HTML, CSS and Javascript
 	- Bootstrap
-	- React with Redux :electron:
-	- MonogoDB
-  - Express
-  - NodeJS  
-- **Shell Scripting**
+ 	- BulmaJs
+  	- TailwindCSS
+  	- PrimeNG
 
+- **Database**
+ 	- PostgresSQL
+  	- SQlite
+	- MongoDB
+   
+- **Shell Scripting**
 
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
 <code><a href="https://www.linux.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
