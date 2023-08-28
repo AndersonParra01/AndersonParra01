@@ -9,7 +9,7 @@
   	- SpringBoot
   	- Python
 
-<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
+<img align="right" src="https://github.com/chandan-reddy-k/chandan-reddy-k/raw/master/assets/coding-freak.gif"/>
 
 - **Development FrontEnd**
 	- VueJs
