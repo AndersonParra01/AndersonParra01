@@ -26,8 +26,9 @@
 <br/><br/>
 
 ## 🌱 I’m currently learning ...
-- **Data Science**
-- **AI**
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rutikwankhade&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=buefy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rutikwankhade&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <br/>
   <br/>
 
