@@ -2,16 +2,16 @@
 <em>Hello! I am a passionate software developer with experience in a variety of backend and frontend development technologies, as well as databases. I am focused on offering effective and efficient solutions to software development challenges</em>
 <br/>
 ## Tech & Tools Preference :computer:
-Columna 1 | Columna 2
+Development BackEnd | Columna 2
 --------- | ---------
-- **Development BackEnd** | <img align="right" height="33px" width="33px" src="https://github.com/chandan-reddy-k/chandan-reddy-k/raw/master/assets/coding-freak.gif"/>
-
-	- Express
+- Express
   	- NodeJS
   	- Java
   	- SpringBoot
   	- Python
+| <img align="right" height="33px" width="33px" src="https://github.com/chandan-reddy-k/chandan-reddy-k/raw/master/assets/coding-freak.gif"/>
 
+	
 - **Development FrontEnd**
 	- VueJs
 	- Angular
