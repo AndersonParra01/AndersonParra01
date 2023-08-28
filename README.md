@@ -3,11 +3,13 @@
 <br/>
 ## Tech & Tools Preference :computer:
 - **Development BackEnd**
-	- Express
-  	- NodeJS
+	- ExpressJs
+  	- NodeJs
   	- Java
   	- SpringBoot
   	- Python
+  	- NestJs
+  	- 
 <img align="right" height="98px" width="98px" src="https://github.com/chandan-reddy-k/chandan-reddy-k/raw/master/assets/coding-freak.gif"/>
 
 	
