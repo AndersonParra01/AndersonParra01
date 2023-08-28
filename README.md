@@ -42,13 +42,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rutikwankhade&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
-  <br/>
-
-
-
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajput2107&&show_icons=true&theme=radical" alt="Pramod's Github Stats">
-</p>  
+<br/>
 
 <div align="center">
   <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
