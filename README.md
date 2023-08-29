@@ -4,7 +4,7 @@
         <em>Hello! I am a passionate software developer with experience in a variety of backend and frontend development technologies, as well as databases. I am focused on offering effective and efficient solutions to software development challenges.</em>
     </div>
     <div style="display:flex;">
-        <img align="left" height="400px" src="https://github.com/chandan-reddy-k/chandan-reddy-k/raw/master/assets/coding-freak.gif"/>
+        <img height="400px" src="https://github.com/chandan-reddy-k/chandan-reddy-k/raw/master/assets/coding-freak.gif"/>
     </div>
 </div>
 <br/>
