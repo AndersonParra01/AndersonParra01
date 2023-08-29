@@ -1,7 +1,7 @@
 ## <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> Welcome to my Developer profile
 <div style="display: flex;">
     <div style="flex: 50%;">
-        <img height="550px" width="100%" src="https://github.com/chandan-reddy-k/chandan-reddy-k/raw/master/assets/coding-freak.gif"/>
+        <img height="570px" width="100%" src="https://github.com/chandan-reddy-k/chandan-reddy-k/raw/master/assets/coding-freak.gif"/>
     </div>
     <div style="flex: 50%; padding: 10px;">
         <em>Hello! I am a passionate software developer with experience in a variety of backend and frontend development technologies, as well as databases. I am focused on offering effective and efficient solutions to software development challenges.</em>
@@ -16,7 +16,7 @@
 | Desarrollo Backend       | Desarrollo Frontend          | Base de Datos        | Operating systems |
 |-------------------------|-----------------------------|------------------------|-------------------|
 | ExpressJs               | VueJs                       | PostgresSQL            |<code><a href="https://www.linux.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code> |
-| NodeJs                  | Angular                     | SQLite                 |
+| NodeJs                  | Angular                     | SQLite                 |<code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://seeklogo.com/images/M/microsoft-windows-logo-2D0FCE27A4-seeklogo.com.png"></a></code> 
 | Java                    | ReactJs                     | MongoDB                |
 | SpringBoot              | HTML, CSS and Javascript    | Firebase               |
 | Python                  | SASS                        |                        |
