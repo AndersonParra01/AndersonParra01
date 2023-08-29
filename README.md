@@ -1,8 +1,12 @@
 ## <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> Welcome to my Developer profile
-<img align="right" height="400px" src="https://github.com/chandan-reddy-k/chandan-reddy-k/raw/master/assets/coding-freak.gif"/>
-
-<em>Hello! I am a passionate software developer with experience in a variety of backend and frontend development technologies, as well as databases. I am focused on offering effective and efficient solutions to software development challenges
-</em>
+<div style="display: flex;">
+    <div style="flex: 50%; padding: 10px;">
+        <img align="left" height="400px" src="https://github.com/chandan-reddy-k/chandan-reddy-k/raw/master/assets/coding-freak.gif"/>
+    </div>
+    <div style="flex: 50%; padding: 10px;">
+        <em>Hello! I am a passionate software developer with experience in a variety of backend and frontend development technologies, as well as databases. I am focused on offering effective and efficient solutions to software development challenges.</em>
+    </div>
+</div>
 <br/>
 
 ## Tech & Tools Preference :computer:
