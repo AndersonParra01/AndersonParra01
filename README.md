@@ -29,11 +29,7 @@
 |                         | Buefy                       |                        |
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
-- **Operating systems**
-
-<code><a href="https://www.linux.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
-<code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://seeklogo.com/images/M/microsoft-windows-logo-2D0FCE27A4-seeklogo.com.png"></a></code>
+ 
 <br/>
 <br/>
 
