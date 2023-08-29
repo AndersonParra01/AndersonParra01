@@ -13,9 +13,9 @@
 
 ## Tech & Tools Preference :computer:
 
-| Desarrollo Backend       | Desarrollo Frontend          | Base de Datos        |
-|-------------------------|-----------------------------|------------------------|
-| ExpressJs               | VueJs                       | PostgresSQL            |
+| Desarrollo Backend       | Desarrollo Frontend          | Base de Datos        | Operating systems |
+|-------------------------|-----------------------------|------------------------|-------------------|
+| ExpressJs               | VueJs                       | PostgresSQL            |<code><a href="https://www.linux.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code> |
 | NodeJs                  | Angular                     | SQLite                 |
 | Java                    | ReactJs                     | MongoDB                |
 | SpringBoot              | HTML, CSS and Javascript    | Firebase               |
@@ -36,17 +36,6 @@
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://seeklogo.com/images/M/microsoft-windows-logo-2D0FCE27A4-seeklogo.com.png"></a></code>
 <br/>
 <br/>
-
-<div style="display: flex; flex-direction: row; width: 100%;">
-    <div style="flex: 50%; padding: 10px;">
-        <img height="400px" src="https://github.com/chandan-reddy-k/chandan-reddy-k/raw/master/assets/coding-freak.gif"/>
-    </div>
-    <div style="flex: 50%; padding: 10px;">
-        <em>Hello! I am a passionate software developer with experience in a variety of backend and frontend development technologies, as well as databases. I am focused on offering effective and efficient solutions to software development challenges.</em>
-    </div>
-</div>
-
-
 
 <div align="center">
   <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
