@@ -21,7 +21,7 @@
 | SpringBoot              | HTML, CSS and Javascript    | Firebase               |
 | Python                  | SASS                        |                        |
 | NestJs                  | Bootstrap                   |                        |
-|                         | BulmaJs                     |                        |
+| JWT(Json Web Token)     | BulmaJs                     |                        |
 |                         | TailwindCSS                 |                        |
 |                         | PrimeNG                     |                        |
 |                         | NGZorro                     |                        |
